@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'ALKDots';
+    src: url('../fonts/alkdots-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alkdots-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alkdots-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alkdots-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Redressed';
+    src: url('../fonts/font1/Redressed-Regular.eot');
+    src: url('../fonts/font1/Redressed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/font1/Redressed-Regular.woff2') format('woff2'),
+        url('../fonts/font1/Redressed-Regular.woff') format('woff'),
+        url('../fonts/font1/Redressed-Regular.ttf') format('truetype'),
+        url('../fonts/font1/Redressed-Regular.svg#Redressed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial GEO Bold';
+    src: url('../fonts/font2/arial-geo-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/font2/arial-geo-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/font2/arial-geo-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/font2/arial-geo-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/font2/arial-geo-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/font2/arial-geo-bold-webfont.svg#arial_geobold') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Arial GEO Italic';
+    src: url('../fonts/font3/arial-geo-italic-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/font3/arial-geo-italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/font3/arial-geo-italic-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/font3/arial-geo-italic-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/font3/arial-geo-italic-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/font3/arial-geo-italic-webfont.svg#arial_geoitalic') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'ALK Tommaso';
+    src: url('../fonts/font4/alk-tommaso-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/font4/alk-tommaso-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/font4/alk-tommaso-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/font4/alk-tommaso-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/font4/alk-tommaso-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/font4/alk-tommaso-webfont.svg#alk_tommasoregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'MG BitNeon';
+    src: url('../fonts/font5/mg-bitneon-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/font5/mg-bitneon-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/font5/mg-bitneon-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/font5/mg-bitneon-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/font5/mg-bitneon-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/font5/mg-bitneon-webfont.svg#mg_bitneonregular') format('svg'); /* Legacy iOS */
+}

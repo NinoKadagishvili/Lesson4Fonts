@@ -10,18 +10,21 @@
 	width: 100px;
 	height: 31px;
 	margin-right: 30px;
-	vertical-align: middle;
-	
+	vertical-align: middle;	
 
 }
+
+
 .navigation {
 	display: inline-block;
 	vertical-align: middle;
+	font-family: "ALKDots", sans-serif;
 }
 
 .nav-li{
 	display: inline-block;
 	margin-right: 22px;
+
 	
 }
 
@@ -29,10 +32,17 @@
 	color: #3D58A6;
 	font-size: 22px;
 
+
 }
+
+.active{
+	color: #EE4036
+}
+
 .container {
 	width: 1170px;
 	margin: 20px auto;
+	font-family: 'Redressed';
 
 }
 
@@ -131,6 +141,7 @@
 	font-size: 20px;
 	margin: 30px;
 	color: #000000;
+	font-family: "Arial GEO Bold", sans-serif;
 	
 
 }
@@ -150,6 +161,7 @@
 	display: inline-block;
 	vertical-align: top;
 	margin-left:20px;
+	font-family: "Arial GEO Italic", sans-serif;
 
 }
 /*contact style*/
@@ -191,6 +203,7 @@ span{
 
 	color: #999999;
 	font-size: 16px;
+	font-family: "ALK Tommaso", sans-serif;
 
 }
 
@@ -203,3 +216,17 @@ li{
 	color:#3D58A6;
 	font-size: 20px;
 }
+.qucha{
+	font-family: "MG BitNeon", sans-serif;
+	font-size: 15px;
+}
+.nomeri{
+	font-family: "MG BitNeon", sans-serif;
+	font-size: 15px;
+}
+.fosta{
+	font-family: "MG BitNeon", sans-serif;
+	font-size: 15px;
+}
+
+
